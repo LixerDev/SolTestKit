@@ -3,6 +3,7 @@
 TypeScript testing framework for Anchor programs. Drop-in utilities that eliminate boilerplate from your Anchor test suites — pre-built mocks for wallets, SPL token accounts, Pyth/Switchboard oracles, CPIs, and time manipulation.
 
 **Built by LixerDev**
+Follow me here on my personal Twitter (X): https://x.com/Lix_Devv
 
 ![Version](https://img.shields.io/badge/version-1.0.0-blue)
 ![TypeScript](https://img.shields.io/badge/typescript-5.x-blue)
