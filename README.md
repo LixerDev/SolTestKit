@@ -1,6 +1,7 @@
 # 🧪 SolTestKit
 
-TypeScript testing framework for Anchor programs. Drop-in utilities that eliminate boilerplate from your Anchor test suites — pre-built mocks for wallets, SPL token accounts, Pyth/Switchboard oracles, CPIs, and time manipulation.
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/634554b1-da1f-4023-beca-72ed69861a13" />
+
 
 **Built by LixerDev**
 Follow me here on my personal Twitter (X): https://x.com/Lix_Devv
