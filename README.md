@@ -274,3 +274,7 @@ examples/
 ├── basic.test.ts     ← Minimal example using SolTestKit
 └── staking.test.ts   ← Full staking program test with all features
 ```
+
+# 🧪 Coin
+
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/97394a97-0e6f-425d-826b-30b0503e7e82" />
